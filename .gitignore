@@ -20,3 +20,4 @@ ftp.js
 log/
 tmp/
 pid/
+version.json
